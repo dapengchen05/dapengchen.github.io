@@ -151,3 +151,16 @@ a:hover {
     max-width: 180px !important;
   }
 }
+
+.paper-title {
+  color: #1a73e8;
+}
+
+.paper-title:visited {
+  color: #1a73e8;
+}
+
+.paper-title:hover {
+  color: #0b57d0;
+  text-decoration: underline;
+}
